@@ -1,0 +1,12 @@
+node_modules/
+venv/
+__pycache__/
+dist/
+.env
+
+.vscode/
+*.pyc
+
+cek_fitur.py
+cek_kolom.py
+test_model.py
